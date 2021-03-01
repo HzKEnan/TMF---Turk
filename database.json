@@ -1,0 +1,40 @@
+{
+  "users": {
+    "994504446044@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "КенанТМФ",
+      "age": -1,
+      "regTime": -1
+    },
+    "380671382546@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "TMF - BotMod",
+      "age": -1,
+      "regTime": -1
+    }
+  },
+  "groups": {},
+  "chats": {
+    "380671382546-1614559750@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614611414684,
+      "lastSuccess": 1614611414684
+    }
+  }
+}
